@@ -1,0 +1,15 @@
+Unity storybook asset exports
+Petalo
+Quacky
+Tolly
+Tiko
+Explorer
+Aster-Dragon
+Delivery-Crate
+Signal-Crystals
+Brass-Lantern
+Forest-Tree
+Fairy-Cottage
+
+11 reusable prefabs and 11 rendered PNG portraits.
+The four Funobotz use participant-provided real-kit references. The illustrated journal map was generated separately with the built-in image-generation tool. The earlier invented robot concept is superseded and excluded from current gallery delivery.
